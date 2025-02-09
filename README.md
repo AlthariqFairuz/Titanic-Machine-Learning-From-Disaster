@@ -37,4 +37,4 @@ There are some models that being used in this notebook:
 6. SVC
 7. XGBoost
 
-This notebook also uses Grid Search for hyperparameter tuning for some models in order to find the best parameters. The best model in this notebook is the Hard Voting Classifier with accuracy 0.7918 on the test dataset.
+This notebook also uses Grid Search for hyperparameter tuning for some models in order to find the best parameters. The best model in this notebook is the Hard Voting Classifier with ```accuracy 0.7918``` on the test dataset.
